@@ -1,7 +1,7 @@
 body {
   background-color: #000000;
-  background-size: cover;
   background: url("https://www.spacex.com/static/images/backgrounds/home_feature.webp") no-repeat center top fixed;
+  background-size: cover;
   color: #ffffff;
   font-family: "Segoe UI";
 }
